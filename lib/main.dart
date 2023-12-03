@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage('assets/images/gazou.png'),
+                  image: AssetImage('assets/images/gazou.png')
                 ),
               ),
             ),
